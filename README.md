@@ -20,3 +20,6 @@ Thanks for reading about me
 ## Git Status
 ![Git Status](check_status.png)
  
+## New Branch
+![New branch](new_branch.png)
+
