@@ -16,3 +16,7 @@ I'm really looking forward to becoming a programmer :smiling_face_with_three_hea
 
 Thanks for reading about me
 > Beccy
+
+## Git Status
+![Git Status](check_status.png)
+ 
