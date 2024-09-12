@@ -12,6 +12,7 @@ I have lived all over the world:
 1. UK
 2. India
 3. South Africa
+
 This has helped me travel to some exciting and exotic places. 
 I'm really looking forward to becoming a programmer :smiling_face_with_three_hearts:
 
